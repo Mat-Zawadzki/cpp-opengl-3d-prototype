@@ -8,8 +8,9 @@ The engine is built from scratch in C++ and OpenGL, without Unity, Unreal, Godot
 
 ## Demo
 
-[Watch demo video](./DemoRecording1.1.mp4)
+![Engine demo](./demo.gif)
 
+[Watch full demo video](./demo.mp4)
 The demo shows the engine running with camera movement, RTS-style building placement, placement-radius visualisation, gameplay/debug UI, and post-processing controls.
 
 ## Overview
