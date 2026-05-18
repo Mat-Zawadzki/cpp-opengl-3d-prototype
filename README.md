@@ -10,7 +10,8 @@ The engine is built from scratch in C++ and OpenGL, without Unity, Unreal, Godot
 
 ![Engine demo](./demo.gif)
 
-[Watch full demo video](./demo.mp4)
+[Watch full demo video](./DemoRecording1.1.mp4)
+
 The demo shows the engine running with camera movement, RTS-style building placement, placement-radius visualisation, gameplay/debug UI, and post-processing controls.
 
 ## Overview
@@ -46,9 +47,9 @@ Current work includes:
 - Blender asset workflow
 - Git / GitHub
 
-## Private Project Structure
+## Project Structure
 
-The private project is currently structured around these main systems:
+The project is currently structured around these main systems:
 
 ```text
 core/
