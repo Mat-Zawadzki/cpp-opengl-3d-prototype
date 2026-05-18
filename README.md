@@ -8,7 +8,7 @@ The engine is built from scratch in C++ and OpenGL, without Unity, Unreal, Godot
 
 ## Demo
 
-[Watch demo video]([(https://github.com/Mat-Zawadzki/cpp-opengl-3d-prototype/blob/main/DemoRecording1.1.mp4)])
+[Watch demo video]([main/DemoRecording1.1.mp4])
 
 The demo shows the engine running with camera movement, RTS-style building placement, placement-radius visualisation, gameplay/debug UI, and post-processing controls.
 
